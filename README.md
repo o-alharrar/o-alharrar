@@ -8,6 +8,24 @@ I'm a passionate **student** actively searching for a **paid internship** in the
 
 ---
 
+## 🚀 Featured Projects
+
+### 💼 [Personal Portfolio](https://github.com/o-alharrar/personal-portfolio)
+A modern, responsive personal portfolio website built with React, Vite, and Material-UI.
+- ✨ Clean, component-based architecture
+- 📱 Mobile-friendly interface
+- 🎨 Modern design with Material-UI components
+- ⚡ Fast performance with Vite
+
+### 💰 [Finance Tracker](https://github.com/o-alharrar/finance-tracker)
+A comprehensive full-stack finance management application with advisor-client functionality.
+- 🔐 Secure authentication powered by Appwrite
+- 📊 Income and expense tracking with full CRUD functionality
+- 📈 Interactive dashboards with data visualizations
+- 👥 Advisor-client management system
+- 🏗️ Built with React, Material-UI, and Appwrite backend
+- 🌐 [Live Demo](https://financetracker.appwrite.network/)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=o-alharrar&theme=radical)
 
 ---
